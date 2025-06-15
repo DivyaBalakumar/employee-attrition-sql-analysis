@@ -23,14 +23,15 @@ Kaggle Dataset
 GitHub (for version control)
 
 **Key Areas of Analysis**
-**1**. Data Preparation
+
+**1. Data Preparation**
 Table creation and structure setup
 
 Alteration of fields where needed
 
 Data loading and verification
 
-**2**. Attrition Trends
+**2. Attrition Trends**
 Attrition analysis by age group — identifying which age groups have higher attrition rates
 
 Experience-based attrition — identifying trends among less experienced employees
@@ -41,14 +42,14 @@ Evaluating whether training time impacts attrition
 
 Investigating if high overtime combined with low job satisfaction increases attrition risk
 
-**3**. Income & Role Insights
+**3. Income & Role Insights**
 Do factors like low income and low satisfaction lead to higher attrition?
 
 Attrition comparison between employees of the same Education Field and Job Role (stayed vs. left)
 
 Average tenure comparison for leavers vs. stayers across Job Roles and Departments
 
-**4**. Performance Analysis
+**4. Performance Analysis**
 Top 10 high-income earners per department
 
 Analyzing employees with high performance ratings — how do they relate to attrition?
